@@ -1,0 +1,10 @@
+name: SchrottCraft
+version: ${project.version}
+main: de.juliusxyz.schrottcraft.SchrottCraftPlugin
+api-version: '1.20'
+author: Juliusxyz
+description: Ein Minecraft-Plugin, das gerade so funktioniert.
+commands:
+  schrott:
+    description: Zeigt deinen SchrottCraft-Punktestand.
+    usage: /schrott [score|help]
