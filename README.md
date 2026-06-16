@@ -11,6 +11,8 @@ Ein absichtlich mieses Minecraft/Paper-Plugin, das gerade noch so funktioniert.
 
 ## Build
 
+Benötigt Java 21.
+
 ```bash
 ./mvnw package
 ```
